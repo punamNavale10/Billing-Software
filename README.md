@@ -8,4 +8,4 @@ and receipts. It supports a variety of product categories, including clothing, l
 
 # Screenshot
 
-![Uploading Screenshot 2024-07-19 220219.png…]()
+[Uploading Screenshot 2024-07-19 220219.png…]()
