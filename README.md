@@ -8,4 +8,5 @@ and receipts. It supports a variety of product categories, including clothing, l
 
 # Screenshot
 
-[Uploading Screenshot 2024-07-19 220219.png…]()
+
+![Screenshot 2024-07-19 220219](https://github.com/user-attachments/assets/5fd12472-0fb4-4c5c-be32-26cf542eb652)
